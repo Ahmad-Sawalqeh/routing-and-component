@@ -1,0 +1,24 @@
+{
+  "name": "routing-and-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-Sawalqeh/routing-and-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmad-Sawalqeh/routing-and-component/issues"
+  },
+  "homepage": "https://github.com/Ahmad-Sawalqeh/routing-and-component#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "react-test-renderer": "^16.8.6"
+  }
+}
